@@ -1,9 +1,11 @@
 SHA3-256(./pypi/mk1onepass/__init__.py)= 7d881727c533aded9702e43a3834331f92b631619b31f20fb26bd78e439fede4
 SHA3-256(./pypi/mk1onepass/__main__.py)= 677776840335531583f3f4e5af239b64665dff74218f7b4e749ee942ac344920
 SHA3-256(./LICENSE)= 3abc206d4e84eeb088f75f26697aabefe81a582f2adbfffc111da211b5428826
-SHA3-256(./script/mk1onepass.py)= 46dd12de08cc5f4b279ea9a4d7d3d2115b41daea80a796383f679b7c95e4e515
+SHA3-256(./script/mk1onepass.py)= 9c8ca9fcaec95189812679d013782dbadf867f1d05d551ab1ad32dde784cf6f2
 SHA3-256(./snakeland-mk1onepass.conf)= 55196e6ebdde1322461cc7ea9f2523e43bd2aeb0315b7a433479ed5a9dca4d91
-SHA3-256(./HISTORY)= ccce08a798bb5507b8ccafaf61e2cae2c7f652c5494f63f21fbd32328941b3f4
-SHA3-256(./README.rst)= 70f3fac5579eb58eb8396229945329617248074ef6cdb94ed8743224a88fffc9
-SHA3-256(./pkg/pypi/mk1onepass-0.0.2.tar.gz)= baa2b3412aba5cec19258a1b4a76fa1fa315c25161ac61507333e6bb3f1f29c0
-SHA3-256(./pkg/pypi/mk1onepass-0.0.2-py3-none-any.whl)= 5b73d51b681bd5800c6ef2e898089da16d2e1c648e4733c7fa00e01664d66c3f
+SHA3-256(./HISTORY)= 8e40f3450788b4276510799a75a79704cdd62bad3e52a28ee294ec1dd325b6f4
+SHA3-256(./README.rst)= 70923bdf46f66007282db69d41f8da20f151b6083f7567c80181e199be30c859
+SHA3-256(./pkg/pypi/mk1onepass-0.0.2.tar.gz.asc)= 20d5116eb4c517cf3dec2980ce7fad0adf51ba1092ba4831105e6ee956b97756
+SHA3-256(./pkg/pypi/mk1onepass-0.0.2.tar.gz)= bd7ba8608bbece9575f94062649d25d32351009c30283878bf2e0d51e48a969f
+SHA3-256(./pkg/pypi/mk1onepass-0.0.2-py3-none-any.whl.asc)= 41f27cebef4c88864c12ffd79e6016134917c0f7548ba3a994a67fa7e4b21c62
+SHA3-256(./pkg/pypi/mk1onepass-0.0.2-py3-none-any.whl)= d38d3056091a6a6841f032ce25ec789624adffb97f90ba98229c4cb24e3703c6
