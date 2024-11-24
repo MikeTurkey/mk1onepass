@@ -140,7 +140,7 @@ class Mainfunc(object):
 
 
 class Main_mk1onepass(object):
-    version: str = '0.0.1'
+    version: str = '0.0.2'
     date: str = '24 Nov 2024'
 
     def __init__(self):
